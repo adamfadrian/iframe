@@ -52,7 +52,7 @@ export default function Home() {
 	// const operationOnHangup = () => {
 	//   setDisabled(false)
 	//   window.parent.postMessage('Hangup', 'http://localhost:3000')
-	// }
+	// }e
 
 	useEffect(() => {
 		const handleMessage = (event: MessageEvent) => {
