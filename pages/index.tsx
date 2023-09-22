@@ -43,6 +43,7 @@ export default function Home() {
 		phone: "",
 		name: "",
 	});
+	console.log(callState);
 
 	// const opeartionOnDial = () => {
 	//   setDisabled(true)
