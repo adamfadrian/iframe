@@ -1,0 +1,26 @@
+{
+   "user":
+   [
+      {
+         "name": "Ravi",
+         "phone": 123456789,
+         "address" : "Jakarta"
+      },
+      {
+         "name": "Ravi",
+         "phone": 123456789,
+         "address" : "Jakarta"
+      },
+      {
+         "name": "Ravi",
+         "phone": 123456789,
+         "address" : "Jakarta"
+      },
+      {
+         "name": "Ravi",
+         "phone": 123456789,
+         "address" : "Jakarta"
+      }
+    
+   ]
+}
